@@ -1,6 +1,6 @@
 # os-release
-Here lies the /etc/os-release file from as many Linux distros as possible.
-Think of it kind of like a <distrowatch.com> but defined as environment variables!
+Here lie as many /etc/os-release files as I can find.
+Think of it kind of like a <https://distrowatch.com> but defined as environment variables!
 
 ## About
 `/etc/os-release` is a standard file used to identify a Linux distribution. It has become a standard file on systemd distros, but it can be found in just about every modern Linux distro.
